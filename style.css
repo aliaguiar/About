@@ -43,12 +43,25 @@ img{
     margin-left: 25%;
 }
 
-.responsive{
-    width: auto;
-    height: auto;
-}
-
 h3{
     margin-left: 45%;
     color: rgb(148, 39, 0);
+}
+
+.parent{
+    position: relative;
+}
+
+.link{
+    position: absolute;
+    top: 380px;
+    left: 760px;
+}
+
+.link a:hover{
+    color: powderblue;
+}
+
+.responsive{
+    position: relative;
 }
