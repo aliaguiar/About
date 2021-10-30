@@ -33,6 +33,8 @@ ul{
 }
 
 .navtext{
+    position: relative;
+    z-index: 2;
     overflow: hidden;
     text-decoration: none;
     color: silver;
@@ -46,10 +48,6 @@ img{
 h3{
     margin-left: 45%;
     color: rgb(148, 39, 0);
-}
-
-.parent{
-    position: relative;
 }
 
 .link{
