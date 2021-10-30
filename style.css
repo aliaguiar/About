@@ -63,3 +63,16 @@ h3{
 .responsive{
     position: relative;
 }
+
+h3{
+    position: relative;
+    margin-top: 75px;
+}
+
+h4{
+    margin-left: 50%;
+}
+
+.foto{
+    margin-top: 2px;
+}
